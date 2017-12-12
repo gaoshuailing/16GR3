@@ -1,18 +1,19 @@
 /**
  * 
  */
-package com.qhit.lh.gr3.jay.sbm.user.dao;
+package com.qhit.lh.gr3.jin.sbm.user.service;
 
 import java.util.List;
 
-import com.qhit.lh.gr3.jay.sbm.user.bean.User;
+import com.qhit.lh.gr3.jin.sbm.user.bean.User;
 
 
 /**
  * @author admin
  * 2017年11月13日
  */
-public interface UserDao {
+public interface UserService {
+	
 	
 	/**
 	 * @return
@@ -32,7 +33,7 @@ public interface UserDao {
 	 * @param userName
 	 * @param userPassword
 	 * @return
-	 * 登錄的數據訪問
+	 * 登錄的業務
 	 */
 	public User doLogin(String userName,String userPassword);
 }

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.qhit.lh.gr3.jay.sbm.user.dao.impl;
+package com.qhit.lh.gr3.jin.sbm.user.dao.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -10,9 +10,9 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.qhit.lh.gr3.jay.sbm.user.bean.User;
-import com.qhit.lh.gr3.jay.sbm.user.dao.UserDao;
-import com.qhit.lh.gr3.jay.sbm.utils.DBManager;
+import com.qhit.lh.gr3.jin.sbm.user.bean.User;
+import com.qhit.lh.gr3.jin.sbm.user.dao.UserDao;
+import com.qhit.lh.gr3.jin.sbm.utils.DBManager;
 
 /**
  * @author admin

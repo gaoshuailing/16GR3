@@ -1,4 +1,4 @@
-package com.qhit.lh.gr3.jay.sbm.user.bean;
+package com.qhit.lh.gr3.jin.sbm.user.bean;
 
 /**
  * @author gao

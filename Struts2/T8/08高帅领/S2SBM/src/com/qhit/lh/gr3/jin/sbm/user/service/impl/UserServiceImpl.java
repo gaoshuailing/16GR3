@@ -1,14 +1,14 @@
 /**
  * 
  */
-package com.qhit.lh.gr3.jay.sbm.user.service.impl;
+package com.qhit.lh.gr3.jin.sbm.user.service.impl;
 
 import java.util.List;
 
-import com.qhit.lh.gr3.jay.sbm.user.bean.User;
-import com.qhit.lh.gr3.jay.sbm.user.dao.UserDao;
-import com.qhit.lh.gr3.jay.sbm.user.dao.impl.UserDaoImpl;
-import com.qhit.lh.gr3.jay.sbm.user.service.UserService;
+import com.qhit.lh.gr3.jin.sbm.user.bean.User;
+import com.qhit.lh.gr3.jin.sbm.user.dao.UserDao;
+import com.qhit.lh.gr3.jin.sbm.user.dao.impl.UserDaoImpl;
+import com.qhit.lh.gr3.jin.sbm.user.service.UserService;
 
 /**
  * @author admin

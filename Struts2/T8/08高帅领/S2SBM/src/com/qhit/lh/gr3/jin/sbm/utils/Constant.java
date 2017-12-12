@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.qhit.lh.gr3.jay.sbm.utils;
+package com.qhit.lh.gr3.jin.sbm.utils;
 
 /**
  * @author admin

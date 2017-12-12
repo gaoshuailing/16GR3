@@ -1,4 +1,4 @@
-package com.qhit.lh.gr3.jay.sbm.user.action;
+package com.qhit.lh.gr3.jin.sbm.user.action;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -13,9 +13,9 @@ import java.util.List;
 import org.apache.struts2.ServletActionContext;
 
 import com.opensymphony.xwork2.ActionSupport;
-import com.qhit.lh.gr3.jay.sbm.user.bean.User;
-import com.qhit.lh.gr3.jay.sbm.user.service.UserService;
-import com.qhit.lh.gr3.jay.sbm.user.service.impl.UserServiceImpl;
+import com.qhit.lh.gr3.jin.sbm.user.bean.User;
+import com.qhit.lh.gr3.jin.sbm.user.service.UserService;
+import com.qhit.lh.gr3.jin.sbm.user.service.impl.UserServiceImpl;
 
 /**
  * @author gaoshuailing
